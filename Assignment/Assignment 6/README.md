@@ -1,4 +1,4 @@
-### Code a Pet Shelter Greeting program.\
+### Code a Pet Shelter Greeting program
 Ask the user to enter their favorite animal.\
 Display messages to the user as shown in the sample output below but substituting their favorite animal.
 
