@@ -1,4 +1,4 @@
-## ITEC 110 - Program Design and Develop
+## ITEC 110 - Program Design and Develope
 
 🏛: Seattle Central College <br>
 🗓: Fall 2015 term <br>
